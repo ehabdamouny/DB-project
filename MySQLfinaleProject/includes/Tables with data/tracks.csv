@@ -1,0 +1,12 @@
+song_id,name,date,genre,lenght,type,writ_id,comp_id,tech_id
+1,balada,2018-12-11,rock,3.20,song,1,2,3
+2,doker,2019-10-10,classic,4.00,song,2,3,1
+3,bakeer,2019-01-01,rock,5.00,song,1,2,3
+4,sany,2017-01-01,trance,2.00,instrumental,3,3,3
+5,lucky,2016-12-12,rock,6.00,song,2,2,2
+6,doggy,2020-01-01,classic,4.50,instrumental,4,1,2
+7,matilda,2019-01-01,classic,3.20,song,2,4,1
+8,zelda,2018-05-05,rock,2.80,instrumental,4,4,4
+9,leon,2018-04-04,rock,3.40,song,3,4,3
+10,alice,2018-05-06,trance,4.50,song,3,2,1
+11,nothing,2020-01-01,classic,5.02,song,1,3,3
